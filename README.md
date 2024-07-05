@@ -1,4 +1,5 @@
-## BOAS VINDAS AO MEU PERFIL 👋
+## BOAS VINDAS AO MEU PERFIL 💻
+
 
 <!--
 **beatriz1A/beatriz1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
